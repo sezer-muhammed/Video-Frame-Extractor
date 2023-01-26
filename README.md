@@ -9,8 +9,9 @@ The script accepts the following command-line arguments:
 
 To run the script, open a terminal and navigate to the script's directory, then run the following command:
 
-$ python extract.py --frequency 10 --videos_folder /path/to/videos/ --images_folder /path/to/images/
-
+```http
+python extract.py --frequency 10 --videos_folder /path/to/videos/ --images_folder /path/to/images/
+```
 
 ## Dependencies
 * Python 3
